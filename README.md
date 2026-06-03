@@ -127,3 +127,5 @@ Deploy dashboard on cloud platforms.
 The Startup Funding Analysis Dashboard successfully transforms raw startup funding data into meaningful 
 business insights through interactive visualizations. The project demonstrates skills in data cleaning, exploratory data analysis, 
 dashboard development, and data visualization using Python and Streamlit.
+
+<img width="1244" height="630" alt="image" src="https://github.com/user-attachments/assets/89feafcd-3431-4458-ae1d-f5e43108a14d" />
