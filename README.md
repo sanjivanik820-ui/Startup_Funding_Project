@@ -129,3 +129,5 @@ business insights through interactive visualizations. The project demonstrates s
 dashboard development, and data visualization using Python and Streamlit.
 
 <img width="1244" height="630" alt="image" src="https://github.com/user-attachments/assets/89feafcd-3431-4458-ae1d-f5e43108a14d" />
+
+<img width="1251" height="634" alt="image" src="https://github.com/user-attachments/assets/8401c0d8-a462-444a-b7e9-ee870a4afd37" />
