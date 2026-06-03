@@ -1,12 +1,12 @@
 **Startup Funding Analysis Project Report**
 
-**#Project Title:**
+**Project Title:**
 Indian Startup Funding Analysis Dashboard
 
-**#Objective:**
+**Objective:**
 The objective of this project is to analyze Indian startup funding data and create an interactive dashboard that helps users understand funding trends, investor activities, startup performance, sector growth, and city-wise investment patterns.
 
-**#Tools & Technologies Used**
+**Tools & Technologies Used**
 Python
 Streamlit
 Pandas
@@ -14,17 +14,17 @@ NumPy
 Plotly Express
 CSV Dataset
 
-**#Project Description:**
+**Project Description:**
 This project is a web-based data analytics dashboard developed using Streamlit. It processes startup funding data, performs data cleaning and transformation, and presents insights through interactive visualizations.
 
-**#Users can explore:**
+**Users can explore:**
 Overall funding trends
 Startup-wise analysis
 Investor-wise analysis
 Sector performance
 City-wise funding distribution
 
-**#Dataset Features:**
+**Dataset Features:**
 The dataset contains information such as:
 Startup Name
 Industry Vertical
@@ -35,7 +35,7 @@ Funding Amount
 Funding Round
 Funding Date
 
-**#Data Preprocessing:**
+**Data Preprocessing:**
 The following preprocessing steps were performed:
 
 Removed unnecessary columns.
@@ -47,7 +47,7 @@ Standardized investor names.
 Standardized startup names.
 Converted funding amounts into numeric format.
 
-**#Dashboard Modules**
+**Dashboard Modules**
 
 **1. Overall Analysis:**
 Provides a high-level overview of startup funding.
@@ -82,7 +82,7 @@ Largest Investments
 Preferred Industry Sectors
 Investment Distribution Charts
 
-**#Visualizations Used**
+**Visualizations Used**
 
 **Line Chart:**
 Used to display month-on-month funding trends.
@@ -131,3 +131,5 @@ dashboard development, and data visualization using Python and Streamlit.
 <img width="1244" height="630" alt="image" src="https://github.com/user-attachments/assets/89feafcd-3431-4458-ae1d-f5e43108a14d" />
 
 <img width="1251" height="634" alt="image" src="https://github.com/user-attachments/assets/8401c0d8-a462-444a-b7e9-ee870a4afd37" />
+
+<img width="1244" height="569" alt="image" src="https://github.com/user-attachments/assets/b7b7b144-87f5-4259-96af-a13a2f6bb8f1" />
